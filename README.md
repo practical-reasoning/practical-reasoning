@@ -1,9 +1,9 @@
-# Package name
+# Practical reasoning
 <pre>
-  pip install package-name
+  pip install practical-reasoning
 </pre>
 Then:
 ```Python
   # Python
-  import package_name
+  import practical_reasoning
 ```
